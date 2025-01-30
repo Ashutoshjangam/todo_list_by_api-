@@ -6,7 +6,7 @@ This project is a simple Todo application with an updated user interface (UI) to
 - Smooth hover effects and transitions.
 - A responsive layout that works well across various screen sizes.
 - All the todo opertaion are happen by the api call
-- In this project we use fetch mmethid of js
+- In this project we use fetch method of js
 - API link that i can use are
   https://dummyjson.com/docs/todos
 
